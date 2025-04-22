@@ -1,5 +1,7 @@
 body {
   font-family: "Courier New", Courier, monospace;
-  color:red;
+  color: red;
   background-color: black;
+  padding: 20px;
+  margin: 20px;
 }
